@@ -1,0 +1,3 @@
+live score = 78
+total score = 100
+score to win = 90
