@@ -1,18 +1,6 @@
 # Python
 
 
-
-Repository title:
-🐍 Python Programming
-
-About me:
-
-* Name: Priyanka Chaurasiya
-* B.Tech Computer Science & Engineering Student
-* Python Learner
-* Goal: Become a Python Developer and AI Engineer
-
-
 ### 🐍 About Python
 
 Explain briefly what Python is and why it is useful.
